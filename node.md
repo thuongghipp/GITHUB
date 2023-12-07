@@ -3,6 +3,8 @@
  Repository (Repo) : Thư mục, dự án (Folder)
  Branch: Cành, nhánh. mặc định là master
  Conflict: Xung đột
+ Local:
+ Remote:
 
 
  # Commands:
@@ -35,3 +37,5 @@
     - git merge {branch name}: 
     tổng hợp branch hiện tại + {branch name} đó
     - git branch -d {branch name}: xóa đi 1 branch
+
+- git push: đẩy lên local repo trên remote repo 
