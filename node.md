@@ -29,4 +29,4 @@
     - git checkout {branch name}: quay về thời điểm hiện tại
 
 - git branch: 
-    - git checkout -b {branch name}
+    - git checkout -b {branch name}: tạo ra 1 branch mới
