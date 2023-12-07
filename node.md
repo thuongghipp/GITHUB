@@ -1,6 +1,7 @@
  # Terms:
  ...Danh từ
  Repository (Repo) : Thư mục, dự án (Folder)
+ Branch: cành, nhánh. mặc định là master
 
 
  # Commands:
@@ -25,3 +26,7 @@
     -git log --oneline: ngắn gọn hơn
 
 - git checkout {Commit ID}: quay lại thời điểm nào đó
+    - git checkout {branch name}: quay về thời điểm hiện tại
+
+- git branch: 
+    - git checkout -b {branch name}
