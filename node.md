@@ -1,7 +1,8 @@
  # Terms:
  ...Danh từ
  Repository (Repo) : Thư mục, dự án (Folder)
- Branch: cành, nhánh. mặc định là master
+ Branch: Cành, nhánh. mặc định là master
+ Conflig: Xung đột
 
 
  # Commands:
@@ -30,7 +31,7 @@
 
 - git branch: 
     - git checkout -b {branch name}: tạo ra 1 branch mới
-    - git branch: lấy ra branch hiện tại 
+    - git branch: lấy ra branch, branch hiện tại (*)
     - git merge {branch name}: 
     tổng hợp branch hiện tại + {branch name} đó
     - git branch -d {branch name}: xóa đi 1 branch
