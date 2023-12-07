@@ -20,3 +20,8 @@
 
 - git commit: chính thức lưu, phải ghi chú 1 chi tiết trc khi lưu, để biết dc quá trình hay feature: phần nào đó
     -m initial commit: cam kết ban đầu, thời điểm ban đầu
+
+- git log: Coi những thời điểm đã lưu
+    -git log --oneline: ngắn gọn hơn
+
+- git checkout {Commit ID}: quay lại thời điểm nào đó
