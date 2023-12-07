@@ -30,3 +30,7 @@
 
 - git branch: 
     - git checkout -b {branch name}: tạo ra 1 branch mới
+    - git branch: lấy ra branch hiện tại 
+    - git merge {branch name}: 
+    tổng hợp branch hiện tại + {branch name} đó
+    - git branch -d {branch name}: xóa đi 1 branch
