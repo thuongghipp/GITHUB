@@ -2,7 +2,7 @@
  ...Danh từ
  Repository (Repo) : Thư mục, dự án (Folder)
  Branch: Cành, nhánh. mặc định là master
- Conflig: Xung đột
+ Conflict: Xung đột
 
 
  # Commands:
