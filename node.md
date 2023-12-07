@@ -17,3 +17,6 @@
     - git add . : chuẩn bị lưu lại tất cả file trên 1 lượt
 
 - git reset: Lấy lại file cbi lưu, không còn file nào cbi lưu nữa
+
+- git commit: chính thức lưu, phải ghi chú 1 chi tiết trc khi lưu, để biết dc quá trình hay feature: phần nào đó
+    -m initial commit: cam kết ban đầu, thời điểm ban đầu
